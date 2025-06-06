@@ -1,4 +1,4 @@
-package wayfair;
+package general;
 
 import java.util.*;
 
