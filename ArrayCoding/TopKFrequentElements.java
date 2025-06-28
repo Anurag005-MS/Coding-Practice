@@ -18,8 +18,7 @@ public class TopKFrequentElements {
         public static void main(String[] args) {
             TopKFrequentElements sol = new TopKFrequentElements();
             int[] nums = {5,5,5,1,1,1,1,4,4,4,4,3,3};
-            System.out.println("Input: [1,1,1,3,3,3,3,2,2,5,5,5,5], k=2");
-            System.out.println("Output: " + sol.topKFrequent(nums, 2)); // [1,2]
+            System.out.println("Output: " + sol.topKFrequent(nums, 2));
         }
     }
 
